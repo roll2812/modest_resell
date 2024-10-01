@@ -1,0 +1,52 @@
+#navigate a {
+  font-size: 20px;
+  color: white;
+}
+li {
+    list-style-type: none;
+    color: gray;
+    margin-top: 14px;
+}
+.icon-arrow {
+  background-image: url("../images/icon/arrow.png");
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  background-size: cover;
+}
+.icon-find {
+  background-image: url("../images/icon/find.png");
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  background-size: cover;
+}
+.icon-shop {
+  background-image: url("../images/icon/large-paper-bag.png");
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  background-size: cover;
+}
+.icon-heart {
+  background-image: url("../images/icon/heart.png");
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  background-size: cover;
+}
+.icon-bag {
+  background-image: url("../images/icon/plastic-bag.png");
+  width: 128px;
+  height: 128px;
+  display: inline-block;
+  background-size: cover;
+}
+.content-image {
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.content-description {
+    width: max-content;
+}
